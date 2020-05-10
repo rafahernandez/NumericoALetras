@@ -1,5 +1,5 @@
 {
-    "name": "rafahernandez/numeros",
+    "name": "rafahernandez/NumericoALetras",
     "description": "Convierte numeros a letras",
     "type": "library",
     "license": "MIT",
@@ -12,12 +12,12 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Rafahernandez\\NumericConvert\\": "src/"
+            "Rafahernandez\\NumericoALetras\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Rafahernandez\\NumericConvert\\Tests\\": "tests"
+            "Rafahernandez\\NumericoALetras\\Tests\\": "tests"
         }
     },
     "require-dev": {

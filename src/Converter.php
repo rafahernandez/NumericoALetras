@@ -1,6 +1,6 @@
 <?php
 
-namespace Rafahernandez\NumericConvert;
+namespace Rafahernandez\NumericoALetras;
 
 class Converter
 {

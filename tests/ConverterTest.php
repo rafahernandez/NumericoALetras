@@ -1,10 +1,10 @@
 <?php
 
 
-namespace NumericConvert\NumericConvert\Tests;
+namespace NumericConvert\NumericoALetras\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Rafahernandez\NumericConvert\Converter;
+use Rafahernandez\NumericoALetras\Converter;
 
 class ConverterTest extends TestCase
 {

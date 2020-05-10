@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Rafahernandez\NumericConvert\Unit\Tests;
+namespace Rafahernandez\NumericoALetras\Unit\Tests;
 use PHPUnit\Framework\TestCase;
-use Rafahernandez\NumericConvert\Number;
+use Rafahernandez\NumericoALetras\Number;
 
 class SplitMostSignificantNumberTest extends TestCase
 {
